@@ -3,5 +3,7 @@ title: 接单制作日志
 date: 2023-08-23 21:13:52
 type: "bb"
 ---
-# 2023/8/23
-我的接单网站搭建完成了！马上写完文章就能开放接单了！
+<div id="qexot"></div>
+<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.6.0/hexo/talks.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.6.0/hexo/talks.css">
+<script>showQexoTalks("qexot", "https://qexo.maresera.top", 5)</script>
