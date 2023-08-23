@@ -1,0 +1,10 @@
+.timeline(class="notice")
+  if site.data.notice
+    each i in site.data.notice
+      .timenode
+        .meta
+          p
+          p=i.date
+          p
+        .body
+          p=i.msg

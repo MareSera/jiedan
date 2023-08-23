@@ -18,3 +18,25 @@ block content
     if page.comments !== false && theme.comments && theme.comments.use
       - var commentsJsLoad = true
       !=partial('includes/third-party/comments/index', {}, {cache: true})
+extends includes/layout.pug
+
+block content
+  #page
+    if top_img === false
+      h1.page-title= page.title
+
+    case page.type
+      when 'tags'
+        include includes/page/tags.pug
+      when 'link'
+        include includes/page/flink.pug
+      when 'categories'
+        include includes/page/categories.pug
++     when 'notice'
++       include includes/page/notice.pug
+      default
+        include includes/page/default-page.pug
+
+    if page.comments !== false && theme.comments && theme.comments.use
+      - var commentsJsLoad = true
+      !=partial('includes/third-party/comments/index', {}, {cache: true})
