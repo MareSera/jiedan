@@ -9,8 +9,8 @@ description: '通过这里选择下单的内容'
 top: 99
 ---
 # 博客类
- 1. WordPress网站
- 2. Hexo网站
+ 1. WordPress网站[点此前往](https://docs.maresera.top/2023/08/23/wordpress/)
+ 2. Hexo网站[点此前往](https://docs.maresera.top/2023/08/23/hexo/)
 # 文档类
  1. Mrdoc（觅思文档）
  2. Docsify

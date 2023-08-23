@@ -1,23 +1,23 @@
 ---
-title: WordPress网站
+title: MrDoc网站
 date: 2023/8/23 17:42
 type: 
 tags: 
     - 下单
 comments: false
-description: 'WordPress网站'
+description: 'MrDoc网站'
 ---
 # 须知
-使用wordpress建站比较吃服务器性能和宽带,建议购买星辰云**高阶以上(不含高阶)**主机
+Mrdoc需要使用宝塔面板搭建,建议购买**星辰云BT主机**或者**自备服务器**
 # 基础价格
-基础建站- -500￥
+基础建站- -300￥
 完整美化- -100￥
 自选美化- -10￥/个
 # 二级域名
 免费分配一个二级域名
 其他的二级域名需要购买- -5￥/个
 # 预览(完整美化)
-![预览](../img/wordpress.png)
+![预览](../img/mrdoc.png)
 # 下单
 **QQ**: 1203332789
 **微信**: 15624134413
