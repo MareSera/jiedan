@@ -519,7 +519,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: 
+background:
 
 # Footer Background
 footer_bg: false
@@ -961,7 +961,7 @@ CDN:
 # hexo-filter-gitcalendar
 # see https://akilar.top/posts/1f9c68c9/
 gitcalendar:
-  enable: false # 开关
+  enable: true # 开关
   priority: 5 #过滤器优先权
   enable_page: / # 应用页面
   # butterfly挂载容器
