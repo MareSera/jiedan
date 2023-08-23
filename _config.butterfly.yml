@@ -653,7 +653,7 @@ preloader:
 # --------------------------------------
 
 aside:
-  enable: true
+  enable: false
   hide: false
   button: true
   mobile: true # display on mobile
@@ -668,8 +668,8 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 联系我
+      link: https://github.com/MareSera
   card_announcement:
     enable: true
     content: This is my Blog
