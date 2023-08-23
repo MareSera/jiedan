@@ -962,7 +962,7 @@ CDN:
 # see https://akilar.top/posts/1f9c68c9/
 gitcalendar:
   enable: true # 开关
-  priority: 999 #过滤器优先权
+  priority: 1 #过滤器优先权
   enable_page: / # 应用页面
   # butterfly挂载容器
   layout: # 挂载容器类型
